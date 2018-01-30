@@ -3,7 +3,7 @@ version="1.0"
 zip="http://"
 
 name="Codeys Build"
-version="2001"
+version="20.01"
 url="http://uground.co.uk/Builds/Codey's%20Build/Untitled.zip"
 gui="http://"
 kodi="17.6"
