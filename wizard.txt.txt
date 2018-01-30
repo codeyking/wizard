@@ -4,7 +4,7 @@ zip="http://"
 
 name="Codeys Build"
 version="2001"
-url="https://archive.org/download/Untitled_20180130/Untitled.zip"
+url="http://uground.co.uk/Builds/Codey's%20Build/Untitled.zip"
 gui="http://"
 kodi="17.6"
 theme="http://"
