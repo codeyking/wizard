@@ -1,9 +1,9 @@
 id="plugin.program.codeyswizard"
-version="0.1.0"
-zip="http://mavericktv.net/wiz/plugin.program.MaverickWizard-2.0.7.zip"
+version="1.0"
+zip="http://"
 
 
-name="[KODI 17] Codeys Build"
+name="Codeys Build"
 version="2001"
 url="http://uground.co.uk/Builds/Codey's%20Build/Untitled.zip"
 gui="http://"
